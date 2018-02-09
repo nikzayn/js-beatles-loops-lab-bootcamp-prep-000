@@ -16,5 +16,6 @@ var newfacts = [];
 let i = 0;
 while(i < facts.length){
   i++;
-}return newfacts;
+}
+return newfacts;
 }
