@@ -12,4 +12,5 @@ function johnLennonFacts(facts){
   while(i < 3){
     i++;
   }
+  return i;
 }
