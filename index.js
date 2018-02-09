@@ -19,6 +19,7 @@ function iLoveTheBeatles(num){
   do{
     let i = 0;
     console.log("I love the Beatles!");
+    i++;
   }
   while(i < 15)
   
