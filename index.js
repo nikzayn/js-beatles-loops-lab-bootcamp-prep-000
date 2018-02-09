@@ -9,6 +9,6 @@ function johnLennonFacts(facts){
   const newfacts = [];
   let i = 0;
   while(i < facts.length){
-    newFacts.push(``);
+    newFacts.push(`${}`);
   }
 }
